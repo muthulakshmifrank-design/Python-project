@@ -20,3 +20,4 @@ Data Analyst | Excel | Power BI | Python
    - Created Sales table with Region wise data
    - Used GROUP BY and SUM to analyze total sales
    - Tools used: MySQL (OneCompiler)
+<img width="1080" height="2400" alt="1000138406" src="https://github.com/user-attachments/assets/3ed8d24f-7027-48bc-972b-1fb8d3394574" />
