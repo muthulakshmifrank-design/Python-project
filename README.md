@@ -1,3 +1,5 @@
+<img width="1080" height="2400" alt="1000138409" src="https://github.com/user-attachments/assets/7ffd305e-6ddb-40eb-833c-59047e1d4067" />
+<img width="1080" height="2400" alt="1000136810" src="https://github.com/user-attachments/assets/e0640231-4bfa-4de4-ae35-d853aa8bb582" />
 # Data Analyst Portfolio - Muthulakshmi
 
 ## About Me
