@@ -1,25 +1,35 @@
-<img width="1080" height="2400" alt="1000138406" src="https://github.com/user-attachments/assets/6f866636-d2fd-415f-ba1e-83d85f1cdb97" />
-<img width="1080" height="2400" alt="1000138406" src="https://github.com/user-attachments/assets/4268bf00-e4ec-4d77-bdba-f8fdf8b8a66d" />
-# Python-project
-# Python Projects - Muthulakshmi
+# Data Analyst Portfolio - Muthulakshmi
 
 ## About Me
-Data Analyst | Excel | Power BI | Python
-
-## Projects
-1. Python Project - YouTube Link: [https://youtube.com/shorts/rYEEHdTuKtc?si=5HsookKC7Shs3iJ8]
+Data Analyst | Excel | SQL | Python
+Fresher seeking Data Analyst opportunities.
 
 ## Skills
-- Excel
+- Python | Pandas | Matplotlib
+- SQL | MySQL
+- Excel | Charts | Dashboard
 - Power BI
-- SQL 
-- Python 
-2. Excel Sales Performance Dashboard
-   - Region wise and Category wise Sales Analysis
-   - Bar chart and Pie chart created
-   - Tools used: Microsoft Excel<img width="1080" height="2400" alt="1000136810" src="https://github.com/user-attachments/assets/3b99c85b-8cc1-49f5-98a3-87344052dfe1" />
-3. SQL Sales Analysis Project
-   - Created Sales table with Region wise data
-   - Used GROUP BY and SUM to analyze total sales
-   - Tools used: MySQL (OneCompiler)
-<img width="1080" height="2400" alt="1000138406" src="https://github.com/user-attachments/assets/3ed8d24f-7027-48bc-972b-1fb8d3394574" />
+
+## Projects
+
+### 1. Bank Transaction Analysis
+- Tools: Python, Pandas, Matplotlib
+- Analyzed bank transaction spending patterns
+- Charts: Pie Chart, Bar Chart
+- Demo: [YouTube Link](https://youtube.com/shorts/rYEEHdTuKtc?si=5HsookKC7Shs3iJ8)
+
+### 2. Excel Sales Dashboard
+- Tools: Microsoft Excel
+- Region & Category wise Sales Analysis
+- Charts: Bar Chart, Pie Chart
+
+### 3. SQL Sales Analysis
+- Tools: MySQL (OneCompiler)
+- Region wise sales - Chennai, Trichy, Coimbatore
+- Used GROUP BY and SUM functions
+
+## Contact
+- GitHub: github.com/muthulakshmifrank-design
+
+
+
